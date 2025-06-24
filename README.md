@@ -1,4 +1,4 @@
-# Projects
+# Projects and competitions/notes
 Some of the work I am proud of building while in school (and continuously adding to),
 alongside projects I competed in competitions for, and projects I am currently working on.
 - [MoodBites Flutter App](https://github.com/AndrewWHans/MoodBites)

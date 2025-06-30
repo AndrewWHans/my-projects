@@ -6,3 +6,6 @@ alongside projects I competed in competitions for, and projects I am currently w
 - [USCC Cyber Camp and Cyber Security/Info-Sec Notes](https://github.com/AndrewWHans/USCC-CyberSecurity-Notes)
 - [Software Product from my System Analysis and Design Course - Fall 2024](https://github.com/AndrewWHans/software-product)
 - [University Projects](https://github.com/AndrewWHans/university-projects)
+
+## Cloud Computing
+- [Static Website Hosted via AWS](https://github.com/AndrewWHans/staticwebsite)

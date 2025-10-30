@@ -10,6 +10,6 @@ alongside projects I competed in competitions for, and projects I am currently w
 ## Cloud Computing
 - [Static Website Hosted via AWS](https://github.com/AndrewWHans/staticwebsite)
 
-### Notes, Foundations, and Concepts
+## Notes, Foundations, and Concepts
 - [Software Engineer Foundations](https://github.com/AndrewWHans/software-engineering-foundations)
 - [USCC Cyber Camp & Cyber Security/Info-Security Notes](https://github.com/AndrewWHans/USCC-CyberSecurity-Notes)

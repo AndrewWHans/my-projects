@@ -6,6 +6,7 @@ alongside projects I competed in competitions for, and projects I am currently w
 - [Software Product from my System Analysis and Design Course - Fall 2024](https://github.com/AndrewWHans/software-product)
 - [Software Product from my Design an Information System I Course - Fall 2025](https://github.com/AndrewWHans/system-analysis-design-capstone)
 - [Programming Classes Projects](https://github.com/AndrewWHans/university-projects)
+- [SprintHack@ND Project](https://github.com/AndrewWHans/AI-realestate-hackathon-app)
 
 ## Cloud Computing
 - [Static Website Hosted via AWS](https://github.com/AndrewWHans/staticwebsite)
